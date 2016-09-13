@@ -45,7 +45,8 @@ a {
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
-.img-responsive,
+
+.img-responsive{
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
