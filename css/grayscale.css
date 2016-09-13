@@ -46,10 +46,10 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-.avatar{
+.avatar {
   display: block;
   max-width: auto;
-  height: 100px;
+  height: 300px;
 }
 a:hover,
 a:focus {
