@@ -46,7 +46,7 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-.img-responsive{
+.avatar{
   display: block;
   max-width: auto;
   height: 100px;
