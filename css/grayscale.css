@@ -45,11 +45,6 @@ a {
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
-avatar{
-   width: auto;
-   height: 300px;
-   border-radius: 50%
-}
 
 a:hover,
 a:focus {
