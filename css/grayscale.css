@@ -222,11 +222,6 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.thumbnail{
- 	margin-bottom:30px; 
- 	max-width:300px;
-  max-height:500px;
-}
 .download-section {
   width: 80%;
   padding: 50px 0;
