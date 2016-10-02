@@ -222,9 +222,12 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
+.thumbnail{
+  height: auto;
+  width: auto;
+}
 .table{
-width: 60%;
-height: 60%;
+  width: 60%;
 }
 .download-section {
   width: 100%;
