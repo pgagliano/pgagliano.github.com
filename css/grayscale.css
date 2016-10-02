@@ -225,6 +225,7 @@ a:focus {
 .thumbnail{
  	margin-bottom:30px; 
  	max-width:300px;
+  max-height:500px;
 }
 .download-section {
   width: 100%;
